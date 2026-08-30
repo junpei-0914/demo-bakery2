@@ -832,11 +832,21 @@ footer {
     min-height: 280px;
   }
 
-  .contact {
-    grid-template-columns: 1fr;
-
-    gap: 35px;
+    .contact {
+    padding: 60px 20px;
   }
+
+  input:not(.btn),
+  textarea {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .btn {
+    width: 100px;
+  }
+
+
 
   .footer-inner {
     flex-direction: column;
