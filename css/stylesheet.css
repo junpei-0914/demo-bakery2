@@ -822,7 +822,7 @@ footer {
     font-size: 12px;
   }
 
-  .contact-grid {
+  .access-grid {
     grid-template-columns: 1fr;
 
     gap: 35px;
