@@ -835,6 +835,10 @@ footer {
     .contact {
     padding: 60px 20px;
   }
+   
+  input,textarea {
+    width: 300px;
+    padding: 60px 10px;
 
   input:not(.btn),
   textarea {
