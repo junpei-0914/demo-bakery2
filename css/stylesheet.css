@@ -832,7 +832,7 @@ footer {
     min-height: 280px;
   }
 
-  .form {
+  .contact {
     grid-template-columns: 1fr;
 
     gap: 35px;
