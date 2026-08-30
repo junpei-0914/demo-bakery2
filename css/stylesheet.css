@@ -832,6 +832,12 @@ footer {
     min-height: 280px;
   }
 
+  .form {
+    grid-template-columns: 1fr;
+
+    gap: 35px;
+  }
+
   .footer-inner {
     flex-direction: column;
 
